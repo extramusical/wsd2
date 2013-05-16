@@ -2,6 +2,10 @@ img{
 	float: left;
 }
 
+.heading{
+	clear: right;
+}
+
 p{
    color: blue;
 }
