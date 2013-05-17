@@ -10,6 +10,10 @@ img{
 	float: left;
 }
 
+h1{
+	font-family: 'Roboto Slab', serif;
+}
+
 p{
    color: blue;
 }
