@@ -7,8 +7,22 @@ img{
 }
 
 .nav{
-	float: right;
-	
+	float: right;	
+}
+
+ul{
+	width: 300px;
+	margin: 0 auto;
+	background: green;
+	list-style-type: none;
+	padding: 0;
+	overflow: hidden;
+	float: left;
+}
+
+li{
+	width: 100px;
+	color: teal;
 }
 
 #h1{
