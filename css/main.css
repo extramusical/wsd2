@@ -44,6 +44,14 @@ body{
 	max-width: 960px;
 }
 
+section{
+	width: 62.8888889;
+}
+
+aside{
+	width: 31.777778;
+}
+
 /* =Media Queries
 =============================================*/
 
