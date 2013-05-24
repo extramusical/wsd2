@@ -53,6 +53,11 @@ aside{
 	border: 8px solid #333;
 }
 
+#logo_container img{
+	max-width: 100%;
+}
+
+
 /* =Media Queries
 =============================================*/
 
