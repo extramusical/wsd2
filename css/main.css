@@ -32,7 +32,7 @@ li{
 
 p{
    color: blue;
-   font-size: 0.8125 ems;
+   font-size: 0.8125em;
 }
 
 body{
@@ -42,11 +42,11 @@ body{
 }
 
 section{
-	width: 62.8888889;
+	width: 62.8888889%;
 }
 
 aside{
-	width: 36.777778;
+	width: 36.777778%;
 }
 
 #logo_container{
