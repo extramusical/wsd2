@@ -64,7 +64,6 @@ aside{
 	overflow: hidden;
 	background: #1FBFEB;
 	
-
 }
 
 /* =Media Queries
@@ -72,9 +71,8 @@ aside{
 
 /* Tablet portrait size to standard 960 (devices and browsers)*/
 @media screen and(min-width:768px) and max-width:959px) {
-	#wrapper {background-color: #33B4D7;}
-	font: 100%;
-	font-weight: normal;
+	#wrapper {background: #33B4D7;}
+	
 }
 
 /* Mobile Landscape size to Tablet Portrait (devices and browsers)*/
