@@ -58,6 +58,14 @@ aside{
 	max-width: 100%;
 }
 
+#wrapper{
+	width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+	background: #1FBFEB;
+	
+
+}
 
 /* =Media Queries
 =============================================*/
