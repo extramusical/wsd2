@@ -52,6 +52,10 @@ aside{
 	width: 36.777778;
 }
 
+#logo_container{
+	border: 8px solid red;
+}
+
 /* =Media Queries
 =============================================*/
 
