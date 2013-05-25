@@ -67,21 +67,20 @@ aside{
 
 /* Tablet portrait size to standard 960 (devices and browsers)*/
 @media screen and(min-width:768px) and (max-width:959px) {
-	#wrapper{background-color: blue;
+	#wrapper {
+		background-color: blue;
     }
 }
 
 /* Mobile Landscape size to Tablet Portrait (devices and browsers)*/
 @media screen and(min-width:480px) and (max-width:767px) {
-	p{
-   color: purple;
-   font: 0.8125em;
-	}
+	#wrapper {
+		background-color: orange;
+    }
 }
 /* Mobile Portrate size to Mobile Landscape Size (devices and browsers)*/
 @media screen and (max-width:479px) {
-    p{
-   color: green;
-   font: 0.8125em;
-	}
+    #wrapper {
+		background-color: green;
+    }
 }
