@@ -67,8 +67,7 @@ aside{
 
 /* Tablet portrait size to standard 960 (devices and browsers)*/
 @media screen and(min-width:768px) and max-width:959px) {
-	body{
-	color: blue;
+	#wrapper{background-color: blue;
     }
 }
 
