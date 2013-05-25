@@ -72,7 +72,7 @@ aside{
 
 /* Tablet portrait size to standard 960 (devices and browsers)*/
 @media screen and(min-width:768px) and max-width:959px) {
-	#wrapper {background-color: #33B4D7;}
+	#wrapper {background-color: #509cff;}
 	
 }
 
